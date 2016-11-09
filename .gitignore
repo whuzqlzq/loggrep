@@ -1,0 +1,12 @@
+**/target/
+**/.settings/
+**/.classpath
+**/.metadata/
+.idea/
+*.iml
+/bin/
+/log/
+/build/
+/classes/
+/out/
+/test-output/
